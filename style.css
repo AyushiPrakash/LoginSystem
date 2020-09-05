@@ -1,0 +1,113 @@
+.form-ln{
+  flex: 1;
+  padding: 12px 20px;
+  max-width: 400px;
+  min-width: 350px;
+  margin:8px 8px;
+  background-color:#223038 ;
+  border-radius: 0.75rem;
+}
+
+.form-sn {
+  flex: 1;
+  padding: 12px 20px;
+  margin: 8px 8px;
+  box-sizing: border-box;
+  max-width: 400px;
+  min-width: 350px;
+  background-color:#223038 ;
+  border-radius: 0.75rem;
+}
+
+input[type=email], input[type=password] , input[type=text]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+
+  .b1 {
+    background-color:#fddb3a;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    text-align: center;
+    border-radius: 0.25rem;
+    
+  }
+
+  .b1:hover{
+      opacity: 0.8;
+  }
+
+
+  .b2 {
+    background-color:#fddb3a;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    text-align: center;
+    border-radius: 0.25rem;
+  }
+
+
+  .b2:hover{
+      opacity: 0.8;
+  }
+
+  .imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+  }
+
+  .container {
+    padding: 16px;
+  }
+
+.title, .note{
+    text-align: center;  
+}
+
+  .formContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .header{
+    text-align: center;
+    color:#fddb3a;
+  }
+
+  body{
+    margin: 0;
+    background-color: #1b262c;
+    color: whitesmoke;
+  }
+
+  input{
+    background-color: #172126;
+    color: whitesmoke;
+    border-radius: 0.25rem;
+  }
+
+  .imgcontainer img{
+    width: 50%;
+  }
+
+
+
+
+
+
+
+  
+  
